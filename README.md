@@ -1,4 +1,4 @@
-# Pipeline status:  [![Build Status](https://dev.azure.com/ridhaelghoul94/DemoRepos/_apis/build/status/Ridha-ELGHOUL.pipelines-java?branchName=master)](https://dev.azure.com/ridhaelghoul94/DemoRepos/_build/latest?definitionId=5&branchName=master)
+## Pipeline Status: [![Build Status](https://dev.azure.com/ridhaelghoul94/DemoRepos/_apis/build/status/Ridha-ELGHOUL.pipelines-java?branchName=master)](https://dev.azure.com/ridhaelghoul94/DemoRepos/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
